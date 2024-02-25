@@ -1,0 +1,8 @@
+pages\Util.class
+pages\LoginPage.class
+pages\HomePage.class
+pages\ChangePasswordPage.class
+pages\RegisterPage.class
+pages\BrowserAction.class
+pages\ProfilePage.class
+pages\MyAccountPage.class
