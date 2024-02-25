@@ -8,8 +8,8 @@
 
 - [Prerequisites](#Prerequisites)
 - [Installation](#Installation)
-- [Running Tests](#Running Tests)
-- [Test Results](#Test Results)
+- [RunningTests](#Running Tests)
+- [TestResults](#Test Results)
 
 ## Prerequisites
 
